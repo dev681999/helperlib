@@ -1,4 +1,4 @@
-module helperlib
+module github.com/dev681999/helperlib
 
 go 1.12
 
